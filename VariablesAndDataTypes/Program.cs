@@ -19,7 +19,6 @@ namespace VariablesAndDataTypes
             // Use Console.WriteLine() to display each variable along with a description (e.g., "My age is: [age]").
             // Your code here
 
-
             // Task 3: Type Conversion
             // Convert the double height to an int. Store this in a new int variable named heightInCm.
             // Convert the int age to a string. Store this in a new string variable named ageAsString.
@@ -35,6 +34,12 @@ namespace VariablesAndDataTypes
             // Task 5: Display Calculations
             // Display the results of the calculations along with a description (e.g., "The sum of my age and height in cm is: [sum]").
             // Your code here
+
+
+            // Task 6: Use Console.ReadLine() to request two different inputs from the user
+            // Use the first input to change the value of your variable age declared in Task 1
+            // Use the second input to change the value of your variable height declared in Task 1
+            // Print out the sum of the variables (age + height)
         }
     }
 }
